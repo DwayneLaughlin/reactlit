@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DwayneLaughlin/reactlit/issues"
   },
-  "homepage": "https://github.com/DwayneLaughlin/reactlit#readme"
+  "homepage": "https://github.com/DwayneLaughlin/reactlit#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
